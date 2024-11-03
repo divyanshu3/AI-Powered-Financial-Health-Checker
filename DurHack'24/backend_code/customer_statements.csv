@@ -1,0 +1,41 @@
+id,customer_name,customer_id,account_type,statement_date,current_balance,opening_balance,account_no,email,phoneNo,transaction_date,transaction_amount,transaction_decription,transaction_id,transaction_type
+1011011_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,1500.50,1000.00,acc001,johndoe@example.com,1234567890,01-11-2024T09:00:00,200.00,grocery shopping,trans001,
+1011011_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,1500.50,1000.00,acc001,johndoe@example.com,1234567890,02-11-2024T10:00:00,500.00,salary credited,trans002,credit
+1021021_Nov_2024,Alice Smith,10002,current,03-11-2024T20:00:00,2800.75,2500.00,acc002,alicesmith@example.com,2345678901,01-11-2024T12:00:00,1500.00,paid rent,trans003,debit
+1021021_Nov_2024,Alice Smith,10002,current,03-11-2024T20:00:00,2800.75,2500.00,acc002,alicesmith@example.com,2345678901,02-11-2024T15:00:00,300.00,utility bill payment,trans004,debit
+1031031_Nov_2024,Bob Johnson,10003,savings,03-11-2024T20:00:00,3600.00,3300.00,acc003,bobjohnson@example.com,3456789012,01-11-2024T14:00:00,600.00,car loan payment,trans005,debit
+1031031_Nov_2024,Bob Johnson,10003,savings,03-11-2024T20:00:00,3600.00,3300.00,acc003,bobjohnson@example.com,3456789012,02-11-2024T11:00:00,900.00,credit card payment,trans006,debit
+1041041_Nov_2024,Carol White,10004,current,03-11-2024T20:00:00,2200.00,2000.00,acc004,carolwhite@example.com,4567890123,01-11-2024T16:00:00,400.00,restaurant dining,trans007,debit
+1041041_Nov_2024,Carol White,10004,current,03-11-2024T20:00:00,2200.00,2000.00,acc004,carolwhite@example.com,4567890123,02-11-2024T18:00:00,700.00,investment in stocks,trans008,credit
+1051051_Nov_2024,David Brown,10005,savings,03-11-2024T20:00:00,4000.00,3700.00,acc005,davidbrown@example.com,5678901234,01-11-2024T08:00:00,800.00,health insurance payment,trans009,debit
+1051051_Nov_2024,David Brown,10005,savings,03-11-2024T20:00:00,4000.00,3700.00,acc005,davidbrown@example.com,5678901234,02-11-2024T10:00:00,500.00,savings deposit,trans010,credit
+1061061_Nov_2024,Emma Green,10006,current,03-11-2024T20:00:00,2900.50,2600.00,acc006,emmagreen@example.com,6789012345,01-11-2024T14:00:00,300.00,internet bill payment,trans011,debit
+1061061_Nov_2024,Emma Green,10006,current,03-11-2024T20:00:00,2900.50,2600.00,acc006,emmagreen@example.com,6789012345,02-11-2024T09:00:00,600.00,bonus credited,trans012,credit
+1071071_Nov_2024,Frank Harris,10007,savings,03-11-2024T20:00:00,3200.25,3000.00,acc007,frankharris@example.com,7890123456,01-11-2024T11:00:00,250.00,gym membership fee,trans013,debit
+1071071_Nov_2024,Frank Harris,10007,savings,03-11-2024T20:00:00,3200.25,3000.00,acc007,frankharris@example.com,7890123456,02-11-2024T13:00:00,500.00,gift received,trans014,credit
+1081081_Nov_2024,Grace Lee,10008,current,03-11-2024T20:00:00,2500.80,2300.00,acc008,gracelee@example.com,8901234567,01-11-2024T12:00:00,200.00,mobile bill payment,trans015,debit
+1081081_Nov_2024,Grace Lee,10008,current,03-11-2024T20:00:00,2500.80,2300.00,acc008,gracelee@example.com,8901234567,02-11-2024T19:00:00,300.00,received refund,trans016,credit
+1091091_Nov_2024,Henry King,10009,savings,03-11-2024T20:00:00,4200.40,3900.00,acc009,henryking@example.com,9012345678,01-11-2024T17:00:00,700.00,furniture purchase,trans017,debit
+1091091_Nov_2024,Henry King,10009,savings,03-11-2024T20:00:00,4200.40,3900.00,acc009,henryking@example.com,9012345678,02-11-2024T20:00:00,1000.00,salary credited,trans018,credit
+1101101_Nov_2024,Ivy Miller,10010,current,03-11-2024T20:00:00,3100.00,2900.00,acc010,ivymiller@example.com,0123456789,01-11-2024T13:00:00,400.00,clothing purchase,trans019,debit
+1101101_Nov_2024,Ivy Miller,10010,current,03-11-2024T20:00:00,3100.00,2900.00,acc010,ivymiller@example.com,0123456789,02-11-2024T17:00:00,700.00,received payment for services,trans020,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,01-11-2024T09:00:00,500.00,salary credited,trans001,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,01-11-2024T10:30:00,150.00,grocery shopping,trans002,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,01-11-2024T13:00:00,200.00,paid electricity bill,trans003,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,02-11-2024T11:00:00,350.00,insurance premium payment,trans004,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,02-11-2024T15:30:00,1200.00,received tax refund,trans005,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T08:00:00,100.00,gym membership fee,trans006,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T09:00:00,200.00,donation to charity,trans007,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T11:00:00,50.00,movie tickets purchase,trans008,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T12:00:00,300.00,received payment for freelance work,trans009,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T14:00:00,80.00,fuel for car,trans010,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,03-11-2024T16:00:00,600.00,home repair services,trans011,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,04-11-2024T09:30:00,500.00,bonus received,trans012,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,04-11-2024T10:00:00,75.00,coffee shop,trans013,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,04-11-2024T11:30:00,400.00,paid for online course,trans014,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,05-11-2024T14:00:00,900.00,salary credited,trans015,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,05-11-2024T15:00:00,300.00,gifts for family,trans016,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,05-11-2024T16:30:00,250.00,paid for concert tickets,trans017,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,06-11-2024T10:00:00,200.00,received bonus from side gig,trans018,credit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,06-11-2024T11:00:00,600.00,purchase of new laptop,trans019,debit
+1111111_Nov_2024,John Doe,10001,savings,03-11-2024T20:00:00,4200.50,4000.00,acc001,johndoe@example.com,1234567890,06-11-2024T12:30:00,150.00,monthly subscription service,trans020,debit

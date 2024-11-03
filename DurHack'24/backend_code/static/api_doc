@@ -1,0 +1,18 @@
+# Document explaining the tags passed in API contract.
+
+id: unique value of each api request that has been made, format <number_month_year>
+customer_name : Name of the customer having bank account
+customer_id : unique id of each customer
+account_type: type of account customer is having, it can have values as "savings" or "current"
+statement_date: current date and time at which statement request has been made.
+current_balance: current balance in the customer account at the time request has been made.
+opening_balance: opening balance at the start of each month
+account_no: account number of the customer, it should be unique for every customer.
+email: email id of the customer register in the bank
+phoneNo: mobile number of the customer register in the bank
+statement_description:  It contains list of all the transactions that has happened in the request month
+statement_description.transaction_date: date of transaction when it was done
+statement_description.transaction_amount: transaction amount that was debited or credited.
+transaction_decription: brief description on what type of transaction it was. It can be related some Fixed deposits, deposit made for emergency savings or future pension/retirement plans, repayment of home loan, car loan, mobile loan, personal loan, credit cards, food/groceries, movies, entertainment, health insurance, life insurance, other kind of insurance, electricity bills, water bills, gas bills, internet bills, mobile bills, other utilities, miscillaneaus expenses etc.
+statement_description.transaction_id: unique value for each type of transactions happened in customers account
+statement_description.transaction_type: type of transaction that has been done. possible values "debit" or "credit"

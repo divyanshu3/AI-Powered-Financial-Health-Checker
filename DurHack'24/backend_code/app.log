@@ -1,0 +1,110 @@
+2024-11-02 21:42:45,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-02 21:42:45,539 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-02 21:42:45,539 - INFO -  * Restarting with stat
+2024-11-02 21:42:46,349 - WARNING -  * Debugger is active!
+2024-11-02 21:42:46,362 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:42:56,355 - INFO - Received request to analyze bank statement.
+2024-11-02 21:42:56,365 - INFO - 127.0.0.1 - - [02/Nov/2024 21:42:56] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:45:09,797 - INFO - Received request to analyze bank statement.
+2024-11-02 21:45:09,807 - INFO - 127.0.0.1 - - [02/Nov/2024 21:45:09] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:45:44,958 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:45:45,211 - INFO -  * Restarting with stat
+2024-11-02 21:45:46,292 - WARNING -  * Debugger is active!
+2024-11-02 21:45:46,301 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:45:53,782 - INFO - Received request to analyze bank statement.
+2024-11-02 21:45:53,792 - INFO - 127.0.0.1 - - [02/Nov/2024 21:45:53] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:48:01,389 - INFO - Received request to analyze bank statement.
+2024-11-02 21:48:01,396 - INFO - 127.0.0.1 - - [02/Nov/2024 21:48:01] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:49:02,652 - INFO - Received request to analyze bank statement.
+2024-11-02 21:49:02,655 - INFO - parsed
+2024-11-02 21:49:02,657 - INFO - Extracting text from PDF.
+2024-11-02 21:49:02,686 - INFO - Text extraction completed.
+2024-11-02 21:49:02,686 - INFO - Parsing transactions from text.
+2024-11-02 21:49:02,686 - INFO - Parsed 0 transactions.
+2024-11-02 21:49:02,709 - INFO - Saving transactions to database.
+2024-11-02 21:49:02,858 - INFO - Transactions saved to database.
+2024-11-02 21:49:02,858 - INFO - Setting up LLM and RAG.
+2024-11-02 21:49:02,866 - INFO - 127.0.0.1 - - [02/Nov/2024 21:49:02] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:53:30,622 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:53:30,858 - INFO -  * Restarting with stat
+2024-11-02 21:53:32,025 - WARNING -  * Debugger is active!
+2024-11-02 21:53:32,031 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:53:50,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-02 21:53:50,177 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-02 21:53:50,178 - INFO -  * Restarting with stat
+2024-11-02 21:53:50,970 - WARNING -  * Debugger is active!
+2024-11-02 21:53:50,975 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:55:07,691 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:55:07,957 - INFO -  * Restarting with stat
+2024-11-02 21:55:09,053 - WARNING -  * Debugger is active!
+2024-11-02 21:55:09,059 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:55:21,337 - INFO - Received request to analyze bank statement.
+2024-11-02 21:55:21,342 - INFO - parsed
+2024-11-02 21:55:21,344 - INFO - Extracting text from PDF.
+2024-11-02 21:55:21,372 - INFO - Text extraction completed.
+2024-11-02 21:55:21,372 - INFO - Parsing transactions from text.
+2024-11-02 21:55:21,372 - INFO - Parsed 0 transactions.
+2024-11-02 21:55:21,377 - INFO - Saving transactions to database.
+2024-11-02 21:55:21,399 - INFO - Transactions saved to database.
+2024-11-02 21:55:21,400 - INFO - Generating feedback based on spending nature.
+2024-11-02 21:55:21,413 - INFO - 127.0.0.1 - - [02/Nov/2024 21:55:21] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:56:04,553 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:56:04,750 - INFO -  * Restarting with stat
+2024-11-02 21:56:05,712 - WARNING -  * Debugger is active!
+2024-11-02 21:56:05,717 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:56:09,595 - INFO - Received request to analyze bank statement.
+2024-11-02 21:56:09,597 - INFO - parsed
+2024-11-02 21:56:09,598 - INFO - Extracting text from PDF.
+2024-11-02 21:56:09,629 - INFO - Text extraction completed.
+2024-11-02 21:56:09,629 - INFO - Parsing transactions from text.
+2024-11-02 21:56:09,629 - INFO - Parsed 0 transactions.
+2024-11-02 21:56:09,631 - INFO - Saving transactions to database.
+2024-11-02 21:56:09,647 - INFO - Transactions saved to database.
+2024-11-02 21:56:09,647 - INFO - Generating feedback based on spending nature.
+2024-11-02 21:56:09,655 - INFO - 127.0.0.1 - - [02/Nov/2024 21:56:09] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:57:01,184 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:57:01,376 - INFO -  * Restarting with stat
+2024-11-02 21:57:02,327 - WARNING -  * Debugger is active!
+2024-11-02 21:57:02,335 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:57:06,672 - INFO - Received request to analyze bank statement.
+2024-11-02 21:57:06,675 - INFO - parsed
+2024-11-02 21:57:06,676 - INFO - Extracting text from PDF.
+2024-11-02 21:57:06,709 - INFO - Text extraction completed.
+2024-11-02 21:57:06,709 - INFO - Parsing transactions from text.
+2024-11-02 21:57:06,709 - INFO - Parsed 0 transactions.
+2024-11-02 21:57:06,710 - INFO - Saving transactions to database.
+2024-11-02 21:57:06,723 - INFO - Transactions saved to database.
+2024-11-02 21:57:06,723 - INFO - Generating feedback based on spending nature.
+2024-11-02 21:57:06,730 - INFO - 127.0.0.1 - - [02/Nov/2024 21:57:06] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 21:59:33,673 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 21:59:33,845 - INFO -  * Restarting with stat
+2024-11-02 21:59:34,837 - WARNING -  * Debugger is active!
+2024-11-02 21:59:34,843 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 21:59:44,398 - INFO - Received request to analyze bank statement.
+2024-11-02 21:59:44,400 - INFO - parsed
+2024-11-02 21:59:44,401 - INFO - Extracting text from PDF.
+2024-11-02 21:59:44,432 - INFO - Text extraction completed.
+2024-11-02 21:59:44,432 - INFO - Parsing transactions from text.
+2024-11-02 21:59:44,432 - INFO - Parsed 0 transactions.
+2024-11-02 21:59:44,435 - INFO - Saving transactions to database.
+2024-11-02 21:59:44,450 - INFO - Transactions saved to database.
+2024-11-02 21:59:44,450 - INFO - Generating feedback based on spending nature.
+2024-11-02 21:59:44,463 - INFO - 127.0.0.1 - - [02/Nov/2024 21:59:44] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 22:00:09,161 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 22:00:09,346 - INFO -  * Restarting with stat
+2024-11-02 22:00:10,345 - WARNING -  * Debugger is active!
+2024-11-02 22:00:10,350 - INFO -  * Debugger PIN: 541-453-761
+2024-11-02 22:00:13,017 - INFO - Received request to analyze bank statement.
+2024-11-02 22:00:13,019 - INFO - parsed
+2024-11-02 22:00:13,020 - INFO - Extracting text from PDF.
+2024-11-02 22:00:13,051 - INFO - Text extraction completed.
+2024-11-02 22:00:13,051 - INFO - Parsing transactions from text.
+2024-11-02 22:00:13,051 - INFO - Parsed 0 transactions.
+2024-11-02 22:00:13,053 - INFO - Saving transactions to database.
+2024-11-02 22:00:13,068 - INFO - Transactions saved to database.
+2024-11-02 22:00:13,069 - INFO - Generating feedback based on spending nature.
+2024-11-02 22:00:13,085 - INFO - 127.0.0.1 - - [02/Nov/2024 22:00:13] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-11-02 23:03:05,241 - INFO -  * Detected change in "/Users/divyanshu03/Desktop/University of Leeds/DurHack'24/AI-Powered-Financial-Health-CheckUp/main.py", reloading
+2024-11-02 23:03:05,482 - INFO -  * Restarting with stat
